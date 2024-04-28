@@ -22,7 +22,9 @@ Double-click the `JoyCursor.exe` file.
 
 Normally, the icon  will appear in the taskbar, and you can use your joystick control the mouse cursor now.
 
-Usage:
+When any application goes to fullscreen, it will stop control automaticlly (and will resume control when application exit fullscreen).
+
+
 
 ![](doc/usage.png)
 
