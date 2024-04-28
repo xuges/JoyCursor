@@ -18,7 +18,9 @@
 
 Double-click the `JoyCursor.exe` file. 
 
-Normally, this icon <img src="doc/icon.png" style="zoom:25%;" /> will appear in the taskbar, and you can use your joystick control the mouse cursor now.
+![](doc/icon.png)
+
+Normally, the icon  will appear in the taskbar, and you can use your joystick control the mouse cursor now.
 
 Usage:
 
