@@ -210,7 +210,6 @@ static void gameCheckTimer()
 				rect.top    == desktop.top   &&
 				rect.bottom == desktop.bottom){  //foreground window not desktop and fullscreen, it's GAME :)
 				moveCursor(desktop.right, desktop.bottom);
-				ShowCursor(FALSE);
 				disableControl();
 				return;
 			}
